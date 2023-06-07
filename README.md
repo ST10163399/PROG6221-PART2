@@ -11,5 +11,5 @@ Visual Studio (provide the version number)
 
 Installation
 
-Clone the repository: git clone https://github.com/your-repo.git
+Clone the repository: git clone (https://github.com/ST10163399/PROG6221-PART2)
 Open the project in Visual Studio.
